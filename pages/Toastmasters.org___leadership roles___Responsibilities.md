@@ -1,0 +1,15 @@
+## Files
+	- [中文职责介绍手册](https://toastmasterscdn.azureedge.net/medias/files/department-documents/translations/club-leadership-handbook/zh-cn1310-club-leadership-handbook-ff.pdf)
+	- [English Handbook](https://toastmasterscdn.azureedge.net/medias/files/department-documents/club-documents/1310-club-leadership-handbook.pdf)
+- ## Related Articles
+	- [How to find leaders and encourage members to jump in.](https://www.toastmasters.org/magazine/magazine-issues/2020/mar/cultivating-club-leaders)
+	- [Nine Ways to Spot a Leader](https://www.toastmasters.org/magazine/magazine-issues/2016/june2016/leader)
+	- [# 7 Ways to Succeed as a Club Officer](https://www.toastmasters.org/magazine/magazine-issues/2017/august2017/7-ways-to-succeed-as-a-club-officer)
+- ## Roles
+	- [[Club President]]
+	- [[Vice President Education]]
+	- [[Vice President Membership]]
+	- [[Vice President Public Relations]]
+	- Club Secretary
+	- Club Treasurer
+	- Sergeant at Arms
