@@ -10,6 +10,6 @@
 	- [[Vice President Education]]
 	- [[Vice President Membership]]
 	- [[Vice President Public Relations]]
-	- Club Secretary
-	- Club Treasurer
-	- Sergeant at Arms
+	- [[Club Secretary]]
+	- [[Club Treasurer]]
+	- [[Sergeant at Arms]]
