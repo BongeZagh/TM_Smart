@@ -5,29 +5,21 @@
 	  if necessary.Notify the Club President if any members are scheduled to earn their education awards at the upcoming 
 	  meeting.
 - **Upon Arrival at Club Meetings**
-  collapsed:: true
 	- Verify that the members assigned to meeting roles have arrived and are prepared to perform their duties.
-	   Assist the Toastmaster in filling meeting roles for absent members.
-	   Greet guests and ask them if they are willing to participate in the meeting or if they would prefer to observe.
-	   If guests agree to participate, inform the Topicsmaster that they can call on those guests as Table Topics® speakers 
-	  and ask the Club President to introduce the guests at the beginning of the meeting.
+		-  Assist the Toastmaster in filling meeting roles for absent members.
+		-  Greet guests and ask them if they are willing to participate in the meeting or if they would prefer to observe.
+		-  If guests agree to participate, inform the Topicsmaster that they can call on those guests as Table Topics® speakers and ask the Club President to introduce the guests at the beginning of the meeting.
 - **During Club Meetings**
-  collapsed:: true
 	-  Recognize members when they reach educational achievements.
-	   Preside over the meeting when the Club President is absent.
-	   Answer member questions about the Toastmasters education program or speech contests and agree to research 
-	  questions if needed.
+	-  Preside over the meeting when the Club President is absent.
+	-  Answer member questions about the Toastmasters education program or speech contests and agree to research  questions if needed.
 - **Outside Club Meetings**
 	- Attend and vote at Area and District Council meetings.
-	   Ask members if anyone is waiting to have a level completion verified on Base Camp.
-	  When conducting online meetings, it is important that the same care and attention is given as if it was an 
-	  onsite meeting.
-	   Have an agenda
-	   Ensure speakers are present
-	   Confirm that all meeting roles are filled
-	   Message guests individually and ask if they are willing to participate or would prefer to observe
-	  When onboarding new members, use the New Member Orientation page for helpful resources and a 
-	  PowerPoint presentation that can be customized for the new member.
+	- Ask members if anyone is waiting to have a level completion verified on Base Camp. When conducting online meetings, it is important that the same care and attention is given as if it was an  onsite meeting.
+	- Have an [[agenda]]
+	- Ensure speakers are present
+	- Confirm that all meeting roles are filled
+	- Message guests individually and ask if they are willing to participate or would prefer to observe When onboarding new members, use the New Member Orientation page for helpful resources and a  PowerPoint presentation that can be customized for the new member.
 - ## Common Scenarios Vice Presidents Education Face
 	- ==Scenario==: It is difficult to find the time to create a good, workable club schedule that keeps all 
 	  members happy and moving forward in the Toastmasters education program.
