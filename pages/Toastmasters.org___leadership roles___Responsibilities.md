@@ -1,6 +1,7 @@
 ## Files
 	- [中文职责介绍手册](https://toastmasterscdn.azureedge.net/medias/files/department-documents/translations/club-leadership-handbook/zh-cn1310-club-leadership-handbook-ff.pdf)
 	- [English Handbook](https://toastmasterscdn.azureedge.net/medias/files/department-documents/club-documents/1310-club-leadership-handbook.pdf)
+		- 上方两个文件中“Summary of Responsibilities”有摘录，以便查询参考
 - ## Related Articles
 	- [How to find leaders and encourage members to jump in.](https://www.toastmasters.org/magazine/magazine-issues/2020/mar/cultivating-club-leaders)
 	- [Nine Ways to Spot a Leader](https://www.toastmasters.org/magazine/magazine-issues/2016/june2016/leader)
