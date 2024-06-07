@@ -12,6 +12,6 @@ tags:: [[杂志]]
 	- [Professional Development](https://www.toastmasters.org/magazine/listing/category/Professional%20Development)
 	- [Technology](https://www.toastmasters.org/magazine/listing/category/Technology)
 	- [News From Toastmasters International](https://www.toastmasters.org/magazine/listing/category/News%20from%20Toastmasters%20International)
+	- [Online Meetings](https://www.toastmasters.org/magazine/listing/category/Online%20Meetings)
 	- [My Turn](https://www.toastmasters.org/magazine/listing/category/My%20Turn)
 	- [Viewpoint](https://www.toastmasters.org/magazine/listing/category/Viewpoint)
-	-
