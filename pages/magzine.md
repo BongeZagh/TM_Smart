@@ -15,3 +15,4 @@ tags:: [[杂志]]
 	- [Online Meetings](https://www.toastmasters.org/magazine/listing/category/Online%20Meetings)
 	- [My Turn](https://www.toastmasters.org/magazine/listing/category/My%20Turn)
 	- [Viewpoint](https://www.toastmasters.org/magazine/listing/category/Viewpoint)
+	- [Funny You Should Say That](https://www.toastmasters.org/magazine/listing/category/Funny%20You%20Should%20Say%20That)
