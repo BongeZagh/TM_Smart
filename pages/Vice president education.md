@@ -1,4 +1,6 @@
-## Summary of Responsibilities
+tags:: [[VPE]]
+
+- ## Summary of Responsibilities
 - **Before Club Meetings**
 	- Review the scheduled roles for the meeting five to seven days in advance.
 	  Offer support to the Toastmaster of the meeting to confirm members’ role assignments and plan for substitutions 
