@@ -1,3 +1,4 @@
+public:: true
 tags:: [[VPE]]
 
 - ## Summary of Responsibilities

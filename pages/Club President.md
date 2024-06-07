@@ -1,4 +1,7 @@
-## Summary of Responsibilities
+public:: true
+
+-
+- ## Summary of Responsibilities
 	- **Before Club Meetings**
 		- Ask the Vice President Education if any members are to receive special recognition at the meeting.
 		- Ask the Vice President Membership if any new members are to be inducted at the meeting.
