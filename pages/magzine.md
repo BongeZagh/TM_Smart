@@ -10,7 +10,7 @@ tags:: [[杂志]]
 	- [Presentation Skills](https://www.toastmasters.org/magazine/listing/category/Presentation%20Skills)
 	- [Profile](https://www.toastmasters.org/magazine/listing/category/Profile)
 	- [Professional Development](https://www.toastmasters.org/magazine/listing/category/Professional%20Development)
-	- Technology
+	- [Technology](https://www.toastmasters.org/magazine/listing/category/Technology)
 	- [News From Toastmasters International](https://www.toastmasters.org/magazine/listing/category/News%20from%20Toastmasters%20International)
 	- [My Turn](https://www.toastmasters.org/magazine/listing/category/My%20Turn)
 	- [Viewpoint](https://www.toastmasters.org/magazine/listing/category/Viewpoint)
