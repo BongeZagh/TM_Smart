@@ -1,13 +1,17 @@
 public:: true
 tags:: [[杂志]]
 
-- 杂志有几个板块，官网的导航不太好用，收集在此，方便根据主题浏览
+- [1930至今的杂志](https://www.toastmasters.org/magazine/explore)
 - ## Categories
+	- [A Century Of Toastmasters](https://www.toastmasters.org/magazine/listing/category/A%20Century%20of%20Toastmasters)
 	- [Club Experience](https://www.toastmasters.org/magazine/listing/category/Club%20Experience)
 	- [Communication](https://www.toastmasters.org/magazine/listing/category/Communication)
-	- [Profile](https://www.toastmasters.org/magazine/listing/category/Profile)
-	- [Presentation Skills](https://www.toastmasters.org/magazine/listing/category/Presentation%20Skills)
 	- [Personal Growth](https://www.toastmasters.org/magazine/listing/category/Personal%20Growth)
-	- [Viewpoint](https://www.toastmasters.org/magazine/listing/category/Viewpoint)
+	- [Presentation Skills](https://www.toastmasters.org/magazine/listing/category/Presentation%20Skills)
+	- [Profile](https://www.toastmasters.org/magazine/listing/category/Profile)
+	- [Professional Development](https://www.toastmasters.org/magazine/listing/category/Professional%20Development)
+	- Technology
 	- [News From Toastmasters International](https://www.toastmasters.org/magazine/listing/category/News%20from%20Toastmasters%20International)
-	- Professional Dev
+	- [My Turn](https://www.toastmasters.org/magazine/listing/category/My%20Turn)
+	- [Viewpoint](https://www.toastmasters.org/magazine/listing/category/Viewpoint)
+	-
