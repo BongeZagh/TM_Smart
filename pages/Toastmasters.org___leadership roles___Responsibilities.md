@@ -1,4 +1,5 @@
 public:: true
+tags:: [[俱乐部领导职责]]
 
 - ## Files
 	- [中文职责介绍手册](https://toastmasterscdn.azureedge.net/medias/files/department-documents/translations/club-leadership-handbook/zh-cn1310-club-leadership-handbook-ff.pdf)
