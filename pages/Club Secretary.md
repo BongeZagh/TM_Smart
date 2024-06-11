@@ -1,6 +1,39 @@
 tags:: [[俱乐部秘书]]
 
--
+- English
+	- Summary of Responsibilities
+	  Before Club Meetings
+	   Post the minutes of the previous club meeting online and notify club members that the minutes are available for 
+	  review.
+	   Prepare for the Club President a list of actions to be taken during the business meeting, including unfinished 
+	  business, announcements, and correspondence.
+	   Order supplies for the club, as needed.
+	  Upon Arrival at Club Meetings
+	   Take attendance of all members and guests in attendance. If meeting onsite, consider using the Guest Book.
+	  During Club, Business, and Club Executive Committee Meetings
+	   Read the minutes of the previous meeting, note any amendments, and record the minutes of the current 
+	  meeting.
+	  Outside Club Meetings
+	   Attend the Annual Business Meeting at the International Convention to vote on behalf of the club or assign the 
+	  club’s proxy to a member who is attending the International Convention.
+	  Common Scenarios Club Secretaries Face
+	  Scenario: It is difficult to take meeting minutes while participating in the club business meeting at 
+	  the same time.
+	  Possible solutions: If planning to raise an important issue at a business meeting, arrange for another club 
+	  member to take the minutes during that time.
+	  Scenario: It is hard to find the balance between too much and too little detail in the minutes.
+	  Possible solutions: For business meetings and Club Executive Committee meetings, focus mainly on the 
+	  motions and any information pertaining to the motions. Be sure to capture the time and 
+	  place of the meetings, people present and their positions, assignments for the next week’s 
+	  meeting, and any outstanding issues or tasks that need further discussion.
+	  Scenario: The previous Club Secretary did not keep the club files in order.
+	  Possible solutions: Track down any necessary documents, including the club charter, addendum, minutes, 
+	  resolutions, and relevant correspondence.
+	   World Headquarters may have some of these documents available in a digital form.
+	   If necessary, use club funds to purchase a portable file caddy or other small container to 
+	  organize physical files.
+	   Develop, maintain, and document a simple, effective filing system and pass it on to your 
+	  successor
 - 中文
   collapsed:: true
 	- 职责概述
