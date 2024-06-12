@@ -40,4 +40,51 @@ tags:: [[俱乐部财务官]]
 	  
 	  **可能的解决方法：** 在您的干事任期开始时，获得所有可用的记录，并审阅审计委员会的报告。 然后开始尽可能高效全面地监督俱乐部财务，并在任期内建立一种简易的簿记系统，并为下届俱乐部财务官准备好完整的程序记录
 - English
-	-
+	- ## Summary of Responsibilities
+	- ### Before Club Meetings
+	  
+	  *   Prepare a financial report as necessary to be presented at the meeting.
+	- ### During Club Meetings
+	  
+	  *   Collect any payable membership dues and fees from members.
+	  *   Present the club financial report when necessary.
+	- ### Outside Club Meetings
+	  
+	  *   Reconcile deposits, expenditures, and cash on hand each month.
+	  *   If your club is located within the state of California, file the 199N with the Franchise Tax Board by May 15 for the previous year. 
+	    *   The 199N is filed electronically and typically takes 10–15 minutes to complete. Failure to file ultimately jeopardizes the club’s tax-exempt status and subjects receipts to income taxes.
+	  *   If the club is outside the U.S., consult a tax advisor to ascertain local tax regulations.
+	  *   Issue checks to cover club expenses.
+	  *   Receive all bills and other financial correspondence for the club.
+	  *   Prepare for the Audit Committee near the end of the term of office.
+	- ## Items to Prepare for the Audit Committee
+	  
+	  *   Checkbook register
+	  *   Bank statements and canceled checks
+	  *   Cash book and journal
+	  *   Paid bills
+	  *   Deposit slips
+	  *   Copies of monthly financial statements
+	  *   Material requested by the committee
+	- ## Club Expenses
+	  
+	  *   Website
+	  *   Newsletter
+	  *   Supplies from World Headquarters, such as trophies, ribbons, and educational materials
+	  *   Administrative supplies
+	  *   Postage
+	  *   Meeting space
+	- ## Common Scenarios Club Treasurers Face
+	- ### Scenario: A member submits membership dues payments to the club on time, and the member has a receipt proving they paid to the club. However, as Club Treasurer, membership dues payments to World Headquarters were submitted late. As a result, the member is disqualified from a speech contest.
+	  
+	  **Possible solutions:** 
+	  *   The best solution is to avoid it before it happens. The Club Treasurer is responsible for ensuring all membership dues payments are submitted on time. If not completed in a timely manner, other club members will suffer the consequences.
+	  *   Prevent additional delays by ensuring Self-Pay is available. This will enable members to directly pay their own dues on time.
+	- ### Scenario: There is difficulty motivating members to pay membership dues early.
+	  
+	  **Possible solutions:** 
+	  *   Make the club’s due date a few weeks earlier than the organization’s due date. Explain the consequences—such as no speech contests and no education awards—to delinquent members.
+	- ### Scenario: The previous Club Treasurer did not keep adequate records.
+	  
+	  **Possible solutions:** 
+	  *   At the beginning of the term of office, take possession of all available records and review the Audit Committee’s report. Begin monitoring the club finances as efficiently and completely as possible, creating a simple record-keeping system and documenting procedures for future Club Treasurers.
