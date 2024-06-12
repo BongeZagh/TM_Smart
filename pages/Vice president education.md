@@ -2,7 +2,6 @@ public:: true
 tags:: [[VPE]]
 
 - English
-  collapsed:: true
 	- ## Summary of Responsibilities
 	- **Before Club Meetings**
 	  collapsed:: true
@@ -44,6 +43,7 @@ tags:: [[VPE]]
 		  in the education program.
 		  **Possible solutions**: Meet with the member and ask what can be done to help. Encourage them to gain  familiarity with Base Camp. If able, spend time walking the member through their first  project in Pathways. Explain the benefits of Pathways as clearly as possible, and remind  them that the heart of the club experience—i.e., speeches, evaluations, leadership, and  culture—has not changed
 - 中文
+  collapsed:: true
 	- ## 职责概述
 	- ### 俱乐部会议前
 	  
