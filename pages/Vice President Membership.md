@@ -1,7 +1,6 @@
 tags:: [[VPM]] [[会员副主席]]
 
 - English
-  collapsed:: true
 	- Summary of Responsibilities
 	  Before Club Meetings
 	   Make a list of the new members who have joined the club since the last meeting and contact the Club President 
