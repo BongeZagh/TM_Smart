@@ -1,5 +1,5 @@
 public:: true
-tags:: [[VPE]]
+tags:: [[VPE]][[教育副主席]]
 
 - English
 	- ## Summary of Responsibilities

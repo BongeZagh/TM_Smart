@@ -1,4 +1,5 @@
 public:: true
+tags:: [[俱乐部主席]]
 
 - 中文
   collapsed:: true
