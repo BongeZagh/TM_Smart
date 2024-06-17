@@ -1,0 +1,7 @@
+- [这里有关于meetings roles 的各种文章](https://www.toastmasters.org/magazine/listing/category/Meeting%20Roles)
+- [Other meeting roles](https://www.toastmasters.org/leadership-central/district-leader-tools/leadership-roles/additional-leadership-roles)
+- [rules from other clubs](https://buddies.toastmost.org/tips-scripts-and-beyond/)
+- ## roles
+	- [[Toastmasters.org/meeting roles/evaluator]]
+	- [[Toastmasters.org/meeting roles/mentor]]
+-

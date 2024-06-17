@@ -2,7 +2,6 @@ public:: true
 tags:: [[俱乐部主席]]
 
 - 中文
-  collapsed:: true
 	- ## 职责概述
 	- ### 俱乐部会议前
 	  

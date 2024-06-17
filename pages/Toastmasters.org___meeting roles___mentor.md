@@ -1,0 +1,14 @@
+- [Mentor 的文章非常多，有趣](https://www.google.com/search?q=%5Bmentor%5D+site%3Atoastmasters.org#ip=1)
+- [FIVE TIPS FOR MENTORS](https://www.toastmasters.org/Magazine/Articles/Five-Tips-for-Mentors)
+- [CLUB SPONSOR, MENTOR, AND COACH TRAINING](https://www.toastmasters.org/leadership-central/district-leader-tools/training/club-sponsor-mentor-and-coach-training)
+- [LEADERSHIP: THE ULTIMATE MENTOR](https://www.toastmasters.org/magazine/articles/leadership-the-ultimate-mentor)
+- [Advantages of Being a Mentor](https://www.toastmasters.org/magazine/magazine-issues/2024/mar/advantages-of-being-a-mentor)
+- [The Role of mentor](https://toastmasterscdn.azureedge.net/medias/files/department-documents/club-documents/online-attendance/the-role-of-mentor.pdf)
+- [Mentoring resources](https://www.toastmasters.org/resources/mentoring)
+- [How your club can benefit from a strong member mentoring program.](https://www.toastmasters.org/magazine/magazine-issues/2022/mar/club-mentor-program)
+- [Magical Mentoring](https://www.toastmasters.org/magazine/magazine-issues/2019/nov/magical-mentoring)
+- [MENTORING MATTERS](https://www.toastmasters.org/magazine/articles/mentoring-matters)
+- [Meet My Mentor](https://www.toastmasters.org/magazine/listing/category/Meet%20My%20Mentor)
+	- 杂志专栏
+- [Finding the Ideal Mentor](https://www.toastmasters.org/magazine/magazine-issues/2018/feb2018/toolbox)
+-
