@@ -47,7 +47,6 @@ tags:: [[VPPR]][[公关副主席]]
 	  * Do the same for emails and phone calls from interested prospects. 
 	  * Spend more time and possibly more club funds on those promotional efforts that yield results.
 - 中文
-  collapsed:: true
 	- ## 职责概述
 	- ### 俱乐部会议前
 	  
